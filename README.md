@@ -1,2 +1,2 @@
-# python_training
+# Задания Сургаева Павла
 Surgaev b29
